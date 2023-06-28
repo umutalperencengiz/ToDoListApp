@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Todolistapp</string>
+    <string name="new_task" />
+    <string name="Save" />
+    <string name="save_task" />
+    <string name="save">Save</string>
+</resources>
